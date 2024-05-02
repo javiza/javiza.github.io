@@ -1,7 +1,0 @@
-{
-  "name": "javiza",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
